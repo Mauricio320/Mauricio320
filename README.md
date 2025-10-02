@@ -1,12 +1,20 @@
 # 👋 Hola, soy Brayan Mauricio  
 
 💻 **Ingeniero de Sistemas | Full Stack Developer**  
-Con más de 7 años de experiencia desarrollando **aplicaciones web robustas y escalables**.  
-Apasionado por el desarrollo con **React, Next.js, NestJS, Angular, Vue**, bases de datos SQL/NoSQL y despliegues en la nube.  
+Con más de 7 años de experiencia desarrollando aplicaciones web **robustas y escalables**.  
+Apasionado por el desarrollo con **React, Next.js, NestJS, Angular, Vue**, bases de datos SQL/NoSQL y despliegues en la nube con Docker & Kubernetes.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
+- 🚀 Me especializo en diseñar aplicaciones completas (Frontend + Backend).  
+- 🛠️ Fanático de las buenas prácticas: clean code, arquitectura modular, CI/CD y testing.  
+- 📈 Experiencia en proyectos educativos, e-commerce, sistemas administrativos y apps comunitarias.  
+- 🌎 Busco oportunidades internacionales como **Full Stack / Backend Developer**.  
+
+---
+
+## ⚡ Tech Stack
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,7 +48,7 @@ Apasionado por el desarrollo con **React, Next.js, NestJS, Angular, Vue**, bases
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-2F8CFF?style=for-the-badge&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-2F8CFF?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -55,17 +63,13 @@ Apasionado por el desarrollo con **React, Next.js, NestJS, Angular, Vue**, bases
   Incluye gestión académica, autenticación con JWT, orientación vocacional, evaluaciones, clases virtuales vía Zoom y pagos integrados con Kushki.  
   👉 [Repositorio](https://github.com/Mauricio320/sube-notas)  
 
-- 📊 **Sistemas de Gestión Educativa** (React + NestJS + MySQL)  
-  Registro de asistencia, leccionario, notas, reportes y paneles de control para colegios.  
-
-- 🛒 **E-commerce & Declaraciones de Impuestos** (Angular + NestJS + MongoDB)  
-  Sistema de compras con facturación y gestión tributaria, incluyendo integración con pasarela de pagos.  
-
 ---
 
-## 📈 Estadísticas  
+## 📊 GitHub Stats  
 
 ![Mauricio320 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mauricio320&show_icons=true&theme=radical&count_private=true)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mauricio320&theme=dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio320&layout=compact&theme=radical)](https://github.com/Mauricio320)  
 
 ---
 
@@ -74,5 +78,3 @@ Apasionado por el desarrollo con **React, Next.js, NestJS, Angular, Vue**, bases
 [![Linkedin: MauricioTriana](https://img.shields.io/badge/-MauricioTriana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brayan-mauricio-0a3b1a161/)](https://www.linkedin.com/in/brayan-mauricio-0a3b1a161/)  
 [![Email](https://img.shields.io/badge/Email-btriana33@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:btriana33@gmail.com)  
 [![GitHub Mauricio320](https://img.shields.io/github/followers/Mauricio320?label=follow&style=social)](https://github.com/Mauricio320)  
-
----
