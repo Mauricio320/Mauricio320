@@ -1,4 +1,4 @@
-# 👋 Hola, soy Brayan Mauricio  
+# 👋 Hola, soy Mauricio Triana  
 
 💻 **Ingeniero de Sistemas | Full Stack Developer**  
 Con más de 7 años de experiencia desarrollando aplicaciones web **robustas y escalables**.  
@@ -7,11 +7,13 @@ Apasionado por el desarrollo con **React, Next.js, NestJS, Angular, Vue**, bases
 ---
 
 ## 🧑‍💻 About Me
-- 🚀 Me especializo en diseñar aplicaciones completas (Frontend + Backend).  
-- 🛠️ Fanático de las buenas prácticas: clean code, arquitectura modular, CI/CD y testing.  
-- 📈 Experiencia en proyectos educativos, e-commerce, sistemas administrativos y apps comunitarias.  
-- 🌎 Busco oportunidades internacionales como **Full Stack / Backend Developer**.  
-
+- 🚀 Full Stack Developer con más de 7 años de experiencia en el desarrollo de aplicaciones web escalables y de alto rendimiento.  
+- 🔧 Experto en **refactorización de aplicaciones completas**, optimización de performance y migración a nuevas arquitecturas.  
+- 👥 He liderado equipos de trabajo, apoyando en la revisión de código, buenas prácticas y mentoría de desarrolladores junior.  
+- 🛠️ Amplia experiencia en el manejo de **frameworks modernos (React, Next.js, Angular, NestJS, Vue)** y en la integración con bases de datos SQL/NoSQL.  
+- ⚡ Experiencia en despliegues con **Docker, Kubernetes, CI/CD**, y gestión de entornos en la nube.  
+- 🤝 He trabajado con herramientas de colaboración como **Slack, ClickUp, Jira y Trello** para la gestión ágil de proyectos.  
+- 🌎 Actualmente en búsqueda de oportunidades como **Full Stack / Backend Developer** con alcance internacional.  
 ---
 
 ## ⚡ Tech Stack
