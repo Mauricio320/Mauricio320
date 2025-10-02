@@ -61,7 +61,7 @@ Apasionado por el desarrollo con **React, Next.js, NestJS, Angular, Vue**, bases
 
 ## 🌟 Proyectos Destacados  
 
-- 🐾 [**Adopción de Animales en Casanare**](adopcion-animales-next-15.vercel.app/)  
+- 🐾 [Adopción de Animales - Casanare](https://adopcion-animales-next-15.vercel.app/)
   Plataforma web en **Next.js 15 + Supabase** con login, recuperación de contraseña, panel de administración y despliegue en Vercel.  
   👉 [Repositorio](https://github.com/Mauricio320/adopcion-animales-next-15)  
 
