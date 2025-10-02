@@ -13,7 +13,8 @@ Apasionado por el desarrollo con **React, Next.js, NestJS, Angular, Vue**, bases
 - 🛠️ Amplia experiencia en el manejo de **frameworks modernos (React, Next.js, Angular, NestJS, Vue)** y en la integración con bases de datos SQL/NoSQL.  
 - ⚡ Experiencia en despliegues con **Docker, Kubernetes, CI/CD**, y gestión de entornos en la nube.  
 - 🤝 He trabajado con herramientas de colaboración como **Slack, ClickUp, Jira y Trello** para la gestión ágil de proyectos.  
-- 🌎 Actualmente en búsqueda de oportunidades como **Full Stack / Backend Developer** con alcance internacional.  
+- 🌎 Actualmente en búsqueda de oportunidades como **Full Stack / Backend Developer** con alcance internacional.
+- 
 ---
 
 ## ⚡ Tech Stack
@@ -41,6 +42,10 @@ Apasionado por el desarrollo con **React, Next.js, NestJS, Angular, Vue**, bases
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### 🐍 Python & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### ☁️ Cloud & Tools
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
