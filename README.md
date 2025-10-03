@@ -64,11 +64,6 @@ Apasionado por el desarrollo con **React, Next.js, NestJS, Angular, Vue**, bases
 - 🐾 [Adopción de Animales - Casanare](https://adopcion-animales-next-15.vercel.app/)
   Plataforma web en **Next.js 15 + Supabase** con login, recuperación de contraseña, panel de administración y despliegue en Vercel.  
   👉 [Repositorio](https://github.com/Mauricio320/adopcion-animales-next-15)  
-
-- 📚 [**Sube Notas Backend**](https://github.com/Mauricio320/sube-notas)  
-  Plataforma educativa completa desarrollada con **NestJS, MySQL, Redis, Docker y Kubernetes**.  
-  Incluye gestión académica, autenticación con JWT, orientación vocacional, evaluaciones, clases virtuales vía Zoom y pagos integrados con Kushki.  
-  👉 [Repositorio](https://github.com/Mauricio320/sube-notas)
   
 - ⚙️ [**NestJS Generate API from MySQL**](https://github.com/Mauricio320/api-nest-generate-mysql)  
   Herramienta CLI que genera automáticamente **APIs completas en NestJS + Sequelize** a partir de un esquema MySQL, creando entities, servicios, controladores y módulos con relaciones.  
